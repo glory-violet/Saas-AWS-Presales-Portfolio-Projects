@@ -1,6 +1,5 @@
 # Saas-AWS-Presales-Portfolio-Projects
-
-### This document helps you build resume-worthy projects and showcase them on GitHub for SaaS Pre-Sales / Solutions Engineer roles.
+This document helps you build resume-worthy projects and showcase them on GitHub for SaaS Pre-Sales / Solutions Engineer roles.
 
 ## 🚀 PROJECT 1: Grievance Redressal System (GRS) – AWS Solution 
 
